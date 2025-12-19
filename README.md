@@ -146,7 +146,7 @@ These are the pigeon varieties the model can recognize.
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?CallmeKenZero=CallmeKenZero&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=CallmeKenZero&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com?user=CallmeKenZero&theme=radical&hide_border=true" alt="GitHub Streak" />
