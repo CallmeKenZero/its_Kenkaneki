@@ -86,55 +86,55 @@ These are the pigeon varieties the model can recognize.
   <tr>
     <td align="center">
       <img src="Pigeon_Classes/King_Pigeon.jpg" alt="King Pigeon" width="130" /><br/>
-      <b>King Pigeon</b><br/>
-      Large, calm breed often raised for utility.
+      <b>Blue Bar</b><br/>
+      Classic blue-gray with two barsLarge, calm breed often raised for utility.
     </td>
     <td align="center">
       <img src="Pigeon_Classes/Racing_Homer.jpg" alt="Racing Homer" width="130" /><br/>
-      <b>Racing Homer</b><br/>
-      Fast and strong, used in pigeon racing.
+      <b>Blue Checkered</b><br/>
+      Blue-gray with checkered pattern.
     </td>
     <td align="center">
       <img src="Pigeon_Classes/Fantail.jpg" alt="Fantail" width="130" /><br/>
-      <b>Fantail</b><br/>
-      Known for its fan-shaped tail and elegant posture.
+      <b>Black Diamond</b><br/>
+      Dark with diamond markings.
     </td>
     <td align="center">
       <img src="Pigeon_Classes/Modena.jpg" alt="Modena" width="130" /><br/>
-      <b>Modena</b><br/>
-      Compact, upright posture and rounded body.
+      <b>Black Checkered</b><br/>
+      Black with checkered pattern.
     </td>
     <td align="center">
       <img src="Pigeon_Classes/Jacobin.jpg" alt="Jacobin" width="130" /><br/>
-      <b>Jacobin</b><br/>
-      Distinctive feathered hood over the head.
+      <b>White Dove</b><br/>
+      Pure white, symbol of peace.
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="Pigeon_Classes/Carrier_Pigeon.jpg" alt="Carrier Pigeon" width="130" /><br/>
-      <b>Carrier Pigeon</b><br/>
-      Historically used for carrying messages.
+      <b>Grizzle</b><br/>
+      Mixed light and dark feathersKnown for aerial acrobatics and tumbling flight.
     </td>
     <td align="center">
       <img src="Pigeon_Classes/Tumbler.jpg" alt="Tumbler" width="130" /><br/>
-      <b>Tumbler</b><br/>
-      Known for aerial acrobatics and tumbling flight.
+      <b>Red Bar</b><br/>
+      Reddish with two bars.
     </td>
     <td align="center">
       <img src="Pigeon_Classes/Nun_Pigeon.jpg" alt="Nun Pigeon" width="130" /><br/>
-      <b>Nun Pigeon</b><br/>
-      Distinctive black and white markings.
+      <b>Red Checkered</b><br/>
+      Reddish with checkered pattern.
     </td>
     <td align="center">
       <img src="Pigeon_Classes/Oriental_Roller.jpg" alt="Oriental Roller" width="130" /><br/>
-      <b>Oriental Roller</b><br/>
-      Known for rolling or somersaulting in flight.
+      <b>Fancy</b><br/>
+       Ornamental or show pigeon.
     </td>
     <td align="center">
       <img src="Pigeon_Classes/Ice_Pigeon.jpg" alt="Ice Pigeon" width="130" /><br/>
-      <b>Ice Pigeon</b><br/>
-      Pale, icy blue or white plumage.
+      <b>German Beauty</b><br/>
+      Elegant German breed.
     </td>
   </tr>
 </table>
