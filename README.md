@@ -16,10 +16,10 @@
 
 class StudentDeveloper:
     def __init__(self):
-        self.name = "Your Name"
-        self.focus = "Mobile & ML-powered apps"
-        self.location = "Your Location"
-        self.technologies = ["Flutter", "Dart", "Python", "TensorFlow Lite"]
+        self.name = "Kenneth A. Baldomar"
+        self.focus = "Mobile & Web Based"
+        self.location = "Cabadbaran City"
+        self.technologies = ["HTML","PHP","CSS","Flutter", "Dart", "JAVA", "Python", "TensorFlow Lite"]
     
     def say_hi(self):
         print("Thanks for visiting! Let's build something awesome.")
