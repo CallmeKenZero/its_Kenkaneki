@@ -58,7 +58,7 @@ A Flutter mobile app that uses **TensorFlow Lite** to classify different pigeon 
 
 | **Main Page** | **Analytics** |
 | ------------- | ------------- |
-| <img src="assets/README/Home.jpg" alt="Main Page" width="260" /> | <img src="assets/README/analytics.jpg" alt="Analytics Page" width="260" /> |
+| <img src="assets/README/Home.jpeg" alt="Main Page" width="260" /> | <img src="assets/README/analytics.jpeg" alt="Analytics Page" width="260" /> |
 
 The **Main Page** lets users classify pigeons via camera, view analytics, or check history.  
 The **Analytics** screen shows detection frequency and usage stats for each pigeon variety.
@@ -67,9 +67,9 @@ The **Analytics** screen shows detection frequency and usage stats for each pige
 
 ### 📷 Camera, 📄 Records & ✅ Result
 
-| **Camera** | **Records** | **Result** |
-| ---------- | ----------- | ---------- |
-| <img src="App_Screenshots/camera.png" alt="Camera Page" width="220" /> | <img src="App_Screenshots/records.png" alt="Records Page" width="220" /> | <img src="App_Screenshots/result.png" alt="Result Page" width="220" /> |
+| **Camera** |**Processing**| **Records** | **Result** |
+| ---------- | ------------ | ----------- | ---------- |
+| <img src="assets/README/Camera.jpg" alt="Camera Page" width="220" /> |<img src="assets/README/process.jpg" alt="Processing Page" width="220" />| <img src="assets/README/Hisotry.jpeg" alt="Records Page" width="220" /> | <img src="assets/README/results.jpg" alt="Result Page" width="220" /> |
 
 - **Camera**: Capture or upload a pigeon image.  
 - **Records**: View past classifications with timestamps.  
@@ -85,54 +85,54 @@ These are the pigeon varieties the model can recognize.
 <table>
   <tr>
     <td align="center">
-      <img src="Pigeon_Classes/King_Pigeon.jpg" alt="King Pigeon" width="130" /><br/>
+      <img src="assets/breed_templates/blue_bar.jpg" alt="Blue Bar" width="130" /><br/>
       <b>Blue Bar</b><br/>
       Classic blue-gray with two barsLarge, calm breed often raised for utility.
     </td>
     <td align="center">
-      <img src="Pigeon_Classes/Racing_Homer.jpg" alt="Racing Homer" width="130" /><br/>
+      <img src="assets/breed_templates/blue_checkered.jpg" alt="Blue Checkered" width="130" /><br/>
       <b>Blue Checkered</b><br/>
       Blue-gray with checkered pattern.
     </td>
     <td align="center">
-      <img src="Pigeon_Classes/Fantail.jpg" alt="Fantail" width="130" /><br/>
+      <img src="assets/breed_templates/black_diamond.jpg" alt="Black Diamond" width="130" /><br/>
       <b>Black Diamond</b><br/>
       Dark with diamond markings.
     </td>
     <td align="center">
-      <img src="Pigeon_Classes/Modena.jpg" alt="Modena" width="130" /><br/>
+      <img src="assets/breed_templates/black_checkered.jpg" alt="Black Checkered" width="130" /><br/>
       <b>Black Checkered</b><br/>
       Black with checkered pattern.
     </td>
     <td align="center">
-      <img src="Pigeon_Classes/Jacobin.jpg" alt="Jacobin" width="130" /><br/>
+      <img src="assets/breed_templates/white_dove.jpg" alt="White Dove" width="130" /><br/>
       <b>White Dove</b><br/>
       Pure white, symbol of peace.
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Pigeon_Classes/Carrier_Pigeon.jpg" alt="Carrier Pigeon" width="130" /><br/>
+      <img src="assets/breed_templates/grizzle.jpg" alt="Grizzle" width="130" /><br/>
       <b>Grizzle</b><br/>
       Mixed light and dark feathersKnown for aerial acrobatics and tumbling flight.
     </td>
     <td align="center">
-      <img src="Pigeon_Classes/Tumbler.jpg" alt="Tumbler" width="130" /><br/>
+      <img src="assets/breed_templates/red_bar.jpg" alt="Red Bar" width="130" /><br/>
       <b>Red Bar</b><br/>
       Reddish with two bars.
     </td>
     <td align="center">
-      <img src="Pigeon_Classes/Nun_Pigeon.jpg" alt="Nun Pigeon" width="130" /><br/>
+      <img src="assets/breed_templates/red_checkered.webp" alt="Red Checkered" width="130" /><br/>
       <b>Red Checkered</b><br/>
       Reddish with checkered pattern.
     </td>
     <td align="center">
-      <img src="Pigeon_Classes/Oriental_Roller.jpg" alt="Oriental Roller" width="130" /><br/>
+      <img src="assets/breed_templates/fancy.jpg" alt="Fancy" width="130" /><br/>
       <b>Fancy</b><br/>
        Ornamental or show pigeon.
     </td>
     <td align="center">
-      <img src="Pigeon_Classes/Ice_Pigeon.jpg" alt="Ice Pigeon" width="130" /><br/>
+      <img src="assets/breed_templates/german_beauty.jpg" alt="German Beauty" width="130" /><br/>
       <b>German Beauty</b><br/>
       Elegant German breed.
     </td>
