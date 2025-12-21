@@ -69,7 +69,7 @@ The **Analytics** screen shows detection frequency and usage stats for each pige
 
 | **Camera** |**Processing**| **Records** | **Result** |
 | ---------- | ------------ | ----------- | ---------- |
-| <img src="assets/README/Camera.jpg" alt="Camera Page" width="220" /> |<img src="assets/README/process.jpg" alt="Processing Page" width="220" />| <img src="assets/README/Hisotry.jpg" alt="Records Page" width="220" /> | <img src="assets/README/results.jpg" alt="Result Page" width="220" /> |
+| <img src="assets/README/Camera.jpg" alt="Camera Page" width="220" /> |<img src="assets/README/process.jpg" alt="Processing Page" width="220" />| <img src="assets/README/History.jpg" alt="Records Page" width="220" /> | <img src="assets/README/results.jpg" alt="Result Page" width="220" /> |
 
 - **Camera**: Capture or upload a pigeon image.  
 - **Records**: View past classifications with timestamps.  
