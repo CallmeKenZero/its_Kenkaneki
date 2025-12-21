@@ -58,7 +58,7 @@ A Flutter mobile app that uses **TensorFlow Lite** to classify different pigeon 
 
 | **Main Page** | **Analytics** |
 | ------------- | ------------- |
-| <img src="App_Screenshots/main_page.png" alt="Main Page" width="260" /> | <img src="App_Screenshots/analytics.png" alt="Analytics Page" width="260" /> |
+| <img src="assets/README/Home.jpeg" alt="Main Page" width="260" /> | <img src="assets/README/analytics.jpeg" alt="Analytics Page" width="260" /> |
 
 The **Main Page** lets users classify pigeons via camera, view analytics, or check history.  
 The **Analytics** screen shows detection frequency and usage stats for each pigeon variety.
